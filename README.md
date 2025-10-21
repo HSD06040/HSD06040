@@ -9,7 +9,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSD06040&layout=compact&theme=tokyonight)
 
 </div>
+
 <br>
+
+<h3 align="center">🎮 Portfolio 🎮</h3>
+<div align="center">
+   <a href="https://www.notion.so/Projects-1ac09522f1c6806481fec0fc2180fd38">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=gamedeveloper&logoColor=white" />&nbsp
+  </a>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
