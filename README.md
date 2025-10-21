@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=WELCOME%20HSD%20GitHub!!!&fontSize=70" />
- 
 </div>
+
+<br>
+
 <div align="center">
 <div>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSD06040&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSD06040&layout=compact&theme=tokyonight)
 
@@ -45,3 +47,7 @@
       src="https://img.shields.io/badge/tinto0604@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+
+<img src="https://github.com/HSD06040/HSD06040/blob/output/github-contribution-grid-snake.svg"/>
