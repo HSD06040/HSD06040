@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 <br>
 
 <h3 align="center">🎮 Portfolio 🎮</h3>
@@ -50,4 +52,9 @@
 
 <br>
 
-<img src="https://github.com/HSD06040/HSD06040/blob/output/github-contribution-grid-snake.svg"/>
+---
+
+<div align="center">
+  <img src="https://github.com/HSD06040/HSD06040/blob/output/github-contribution-grid-snake.svg">
+</div>
+
