@@ -55,6 +55,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/HSD06040/HSD06040/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/HSD06040/HSD06040/blob/output/github-snake-dark.svg">
 </div>
 
