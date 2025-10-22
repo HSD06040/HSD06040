@@ -30,8 +30,9 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c%23-621773.svg?style=for-the-badge" />&nbsp
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/googleadmob-5A45FF?style=for-the-badge&logo=googleadmob&logoColor=white" />&nbsp  
+  <img src="https://img.shields.io/badge/googleadmob-5A45FF?style=for-the-badge&logo=googleadmob&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
