@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/googleadmob-5A45FF?style=for-the-badge&logo=googleadmob&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Collaboration Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/notion-F98309.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
