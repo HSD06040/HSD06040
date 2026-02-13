@@ -54,8 +54,10 @@
 
 ---
 
-<!-- 
 <div align="center">
-  <img src="https://github.com/HSD06040/HSD06040/blob/output/github-contribution-grid-snake-dark.svg">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSD06040&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HSD06040&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HSD06040&theme=github&utcOffset=8)
+
 </div>
--->
